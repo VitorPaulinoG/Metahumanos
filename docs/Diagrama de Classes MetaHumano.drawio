@@ -1,0 +1,179 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+  <diagram name="Página-1" id="rH260KhxORxKlfgi8wXn">
+    <mxGraphModel dx="438" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-76" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;i&gt;MetaHumano&lt;/i&gt;&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="670" y="100" width="280" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-77" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- nome: string&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-76" vertex="1">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-109" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- poder: string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-76" vertex="1">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-111" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- pontoFraco: string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-76" vertex="1">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-78" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-76" vertex="1">
+          <mxGeometry y="104" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-79" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ &lt;i&gt;usarPoder&lt;/i&gt;(): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-76" vertex="1">
+          <mxGeometry y="112" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;curved=0;endSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-81" target="AwHUCQQ7ISnnPtsqhJxW-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="280" />
+              <mxPoint x="810" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-81" value="&lt;font face=&quot;Cascadia Code&quot;&gt;Heroi&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="280" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-82" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- missaoPrincipal: string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-81" vertex="1">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-112" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- popularidade: string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-81" vertex="1">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-113" value="&lt;font face=&quot;Cascadia Code&quot;&gt;-&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;moralidade&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;: string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-81" vertex="1">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-83" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-81" vertex="1">
+          <mxGeometry y="104" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-84" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ salvarPessoas(): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-81" vertex="1">
+          <mxGeometry y="112" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=16;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-86" target="AwHUCQQ7ISnnPtsqhJxW-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="690" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="280" />
+              <mxPoint x="810" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-86" value="&lt;font face=&quot;Cascadia Code&quot;&gt;Vilao&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="680" width="280" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-87" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- motivacao: string&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-86" vertex="1">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-88" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-86" vertex="1">
+          <mxGeometry y="52" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-89" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ atacarCidade(cidade: string): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-86" vertex="1">
+          <mxGeometry y="60" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-90" value="&lt;font face=&quot;Cascadia Code&quot;&gt;Paladino&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="100" y="660" width="340" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-91" value="&lt;font&gt;+ nivelDeFe: int&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Cascadia Code;" parent="AwHUCQQ7ISnnPtsqhJxW-90" vertex="1">
+          <mxGeometry y="26" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-115" value="&lt;font&gt;+&amp;nbsp;&lt;/font&gt;energiaDivina&lt;font&gt;: type&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Cascadia Code;" parent="AwHUCQQ7ISnnPtsqhJxW-90" vertex="1">
+          <mxGeometry y="52" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-92" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-90" vertex="1">
+          <mxGeometry y="78" width="340" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-93" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;&amp;nbsp;invocarBencao&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-90" vertex="1">
+          <mxGeometry y="86" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-116" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt; &lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;seSacrificar&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(pessoa: string): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-90" vertex="1">
+          <mxGeometry y="112" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gB09e1aysd8d-Q8_zVm9-2" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt; &lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;seSacrificar&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(pessoa: List&amp;lt;string&amp;gt;): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AwHUCQQ7ISnnPtsqhJxW-90">
+          <mxGeometry y="138" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=16;dashed=1;dashPattern=8 8;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-95" target="AwHUCQQ7ISnnPtsqhJxW-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-95" value="&lt;font face=&quot;Cascadia Code&quot;&gt;AntiHeroi&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="460" y="660" width="330" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-96" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- nivelDeOportunismo: int&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
+          <mxGeometry y="26" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gB09e1aysd8d-Q8_zVm9-1" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- pessoasProtegidas&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;: string?&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AwHUCQQ7ISnnPtsqhJxW-95">
+          <mxGeometry y="52" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-114" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- &lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;passadoSombrio&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;: string&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
+          <mxGeometry y="78" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-97" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
+          <mxGeometry y="104" width="330" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-98" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ ataqueFurtivo(): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
+          <mxGeometry y="112" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-117" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;desafiarAutoridade&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(string autoridade): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
+          <mxGeometry y="138" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-119" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ salvarPessoas&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
+          <mxGeometry y="164" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-118" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ blefar&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
+          <mxGeometry y="190" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;curved=0;endSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-90" target="AwHUCQQ7ISnnPtsqhJxW-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="694" as="sourcePoint" />
+            <mxPoint x="480" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-100" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;curved=0;endSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-95" target="AwHUCQQ7ISnnPtsqhJxW-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="520" as="sourcePoint" />
+            <mxPoint x="510" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-101" value="&lt;div&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;IRebelde&lt;/font&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="770" y="440" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-102" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-101" vertex="1">
+          <mxGeometry y="40" width="320" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-103" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ ignorarLeis(leis: List&amp;lt;string&amp;gt;): void&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-101" vertex="1">
+          <mxGeometry y="48" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-110" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ radicalizar(): void&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-101" vertex="1">
+          <mxGeometry y="74" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-104" value="&lt;div&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;IMafioso&lt;/font&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="510" width="280" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-105" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-104" vertex="1">
+          <mxGeometry y="40" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-106" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ formarGangue(): void&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-104" vertex="1">
+          <mxGeometry y="48" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=16;curved=0;dashed=1;dashPattern=8 8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-86" target="AwHUCQQ7ISnnPtsqhJxW-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="470" as="sourcePoint" />
+            <mxPoint x="960" y="196" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="650" />
+              <mxPoint x="947" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-108" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=16;curved=0;dashed=1;dashPattern=8 8;entryX=0.505;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-86" target="AwHUCQQ7ISnnPtsqhJxW-106" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="330" as="sourcePoint" />
+            <mxPoint x="1340" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="650" />
+              <mxPoint x="1331" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

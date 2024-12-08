@@ -1,0 +1,14 @@
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/bin/Debug/net8.0/Metahumanos
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/bin/Debug/net8.0/Metahumanos.deps.json
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/bin/Debug/net8.0/Metahumanos.runtimeconfig.json
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/bin/Debug/net8.0/Metahumanos.dll
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/bin/Debug/net8.0/Metahumanos.pdb
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.AssemblyInfoInputs.cache
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.AssemblyInfo.cs
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.csproj.CoreCompileInputs.cache
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.dll
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/refint/Metahumanos.dll
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.pdb
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.genruntimeconfig.cache
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/ref/Metahumanos.dll
