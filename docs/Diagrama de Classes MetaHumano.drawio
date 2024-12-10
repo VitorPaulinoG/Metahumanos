@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+<mxfile host="drawio-plugin" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" modified="2024-12-10T21:14:49.889Z" version="22.1.22" etag="GUKVtq7QOD2X0SJHkjR0" type="embed">
   <diagram name="Página-1" id="rH260KhxORxKlfgi8wXn">
-    <mxGraphModel dx="438" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         <mxCell id="AwHUCQQ7ISnnPtsqhJxW-116" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt; &lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;seSacrificar&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(pessoa: string): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-90" vertex="1">
           <mxGeometry y="112" width="340" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gB09e1aysd8d-Q8_zVm9-2" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt; &lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;seSacrificar&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(pessoa: List&amp;lt;string&amp;gt;): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AwHUCQQ7ISnnPtsqhJxW-90">
+        <mxCell id="gB09e1aysd8d-Q8_zVm9-2" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt; &lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;seSacrificar&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;(pessoa: List&amp;lt;string&amp;gt;): void&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-90" vertex="1">
           <mxGeometry y="138" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AwHUCQQ7ISnnPtsqhJxW-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=16;dashed=1;dashPattern=8 8;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-95" target="AwHUCQQ7ISnnPtsqhJxW-101" edge="1">
@@ -99,7 +99,7 @@
         <mxCell id="AwHUCQQ7ISnnPtsqhJxW-96" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- nivelDeOportunismo: int&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
           <mxGeometry y="26" width="330" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gB09e1aysd8d-Q8_zVm9-1" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- pessoasProtegidas&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;: string?&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AwHUCQQ7ISnnPtsqhJxW-95">
+        <mxCell id="gB09e1aysd8d-Q8_zVm9-1" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- pessoasProtegidas&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;: string?&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
           <mxGeometry y="52" width="330" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AwHUCQQ7ISnnPtsqhJxW-114" value="&lt;font face=&quot;Cascadia Code&quot;&gt;- &lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;passadoSombrio&lt;/font&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;: string&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-95" vertex="1">
@@ -145,13 +145,16 @@
           <mxGeometry y="74" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AwHUCQQ7ISnnPtsqhJxW-104" value="&lt;div&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cascadia Code&quot;&gt;IMafioso&lt;/font&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="510" width="280" height="74" as="geometry" />
+          <mxGeometry x="1190" y="510" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AwHUCQQ7ISnnPtsqhJxW-105" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AwHUCQQ7ISnnPtsqhJxW-104" vertex="1">
-          <mxGeometry y="40" width="280" height="8" as="geometry" />
+          <mxGeometry y="40" width="360" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-106" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ formarGangue(): void&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-104" vertex="1">
-          <mxGeometry y="48" width="280" height="26" as="geometry" />
+        <mxCell id="3" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ formarGangue(membros: List&amp;lt;string&amp;gt;): void&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AwHUCQQ7ISnnPtsqhJxW-104">
+          <mxGeometry y="48" width="360" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AwHUCQQ7ISnnPtsqhJxW-106" value="&lt;font face=&quot;Cascadia Code&quot;&gt;+ formarGangue(membros: List&amp;lt;string&amp;gt;): void&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AwHUCQQ7ISnnPtsqhJxW-104" vertex="1">
+          <mxGeometry y="74" width="360" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AwHUCQQ7ISnnPtsqhJxW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=16;curved=0;dashed=1;dashPattern=8 8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AwHUCQQ7ISnnPtsqhJxW-86" target="AwHUCQQ7ISnnPtsqhJxW-101" edge="1">
           <mxGeometry relative="1" as="geometry">

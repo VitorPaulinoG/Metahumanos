@@ -40,8 +40,9 @@ vilao.AtacarCidade("Nova York");
 vilao.UsarPoder();
 vilao.IgnorarLeis(new List<string> { "Impostos", "Propriedade intelectual" });
 vilao.Radicalizar();
-vilao.FormarGangue();
-
+vilao.FormarGangue(["Enchantress", "Hela", "Ultron"]);
+vilao.RecrutarMembro("Mephisto");
+vilao.PlanejarOperacao("Ragnarök Sombrio");
 
 Console.WriteLine("\nDesafios e ações:");
 antiHeroi.DesafiarAutoridade("S.H.I.E.L.D.");

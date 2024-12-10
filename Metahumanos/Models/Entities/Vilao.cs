@@ -36,8 +36,18 @@ public class Vilao : MetaHumano, IRebelde, IMafioso
         Console.WriteLine($"Ele está prestes a meter o terror em toda a cidade, sequestrando pessoas, torturando autoridades e até assassinando herois.");
     }
 
-    public void FormarGangue()
+    public void FormarGangue(List<string> membros)
     {
-        Console.WriteLine($"O vilão {this.Nome} formou uma gangue com seus capangas para aterrorizar os civis.");
+        Console.WriteLine($"O vilão {this.Nome} formou uma gangue com seus capangas {string.Join(", ", membros)} para aterrorizar os civis.");
+    }
+
+    public void PlanejarOperacao(string operacao)
+    {
+        Console.WriteLine($"O vilão {this.Nome} está montando a operação {operacao} com sua gangue! ");
+    }
+
+    public void RecrutarMembro(string membro)
+    {
+        Console.WriteLine($"O vilão {this.Nome} recrutou para sua gangue o membro {membro}");
     }
 }

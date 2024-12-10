@@ -12,3 +12,4 @@
 /home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.pdb
 /home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.genruntimeconfig.cache
 /home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/ref/Metahumanos.dll
+/home/vitorpg/Documentos/Programação/C#/Projects/Metahumanos/Metahumanos/obj/Debug/net8.0/Metahumanos.sourcelink.json
